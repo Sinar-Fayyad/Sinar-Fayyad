@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://camo.githubusercontent.com/e9f3346b3ffd50eb559a31eda475cf321e2ede3284f37ba8e92e57b6fbd7a1b4/68747470733a2f2f6d656469612e74656e6f722e636f6d2f53353962506b543070716341414141432f70726f6772616d6d696e672e676966"/>
+  <img src="https://quotefancy.com/media/wallpaper/3840x2160/7696184-Robert-C-Martin-Quote-The-only-way-to-go-fast-is-to-go-well.jpg"/>
 </p>
 
 Hi 👋 My name is Sinar Fayyad
