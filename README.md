@@ -24,6 +24,6 @@ Passionate Software Developer, curious about CyberSecurity
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Sinar5"><img src="https://github-readme-stats.vercel.app/api?username=Sinar5&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&show_icons=true" alt="Sinar5's GitHub stats" /></a>
+<a href="http://www.github.com/SinarFayyad"><img src="https://github-readme-stats.vercel.app/api?username=SinarFayyad&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&show_icons=true" alt="SinarFayyad's GitHub stats" /></a>
 
-<a href="http://www.github.com/Sinar5"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sinar5&stroke=ffffff&background=22272e&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/SinarFayyad"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SinarFayyad&stroke=ffffff&background=22272e&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
