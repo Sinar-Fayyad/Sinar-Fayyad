@@ -25,5 +25,3 @@ Passionate Software Developer, curious about CyberSecurity
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Sinar-Fayyad"><img src="https://github-readme-stats.vercel.app/api?username=Sinar-Fayyad&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=a855f7&icon_color=ec4899&bg_color=22272e&hide_border=true&show_icons=true" alt="Sinar-Fayyad's GitHub stats" /></a>
-
-<a href="https://github.com/Sinar-Fayyad" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sinar-Fayyad&langs_count=10&title_color=ec4899&text_color=a855f7&icon_color=ec4899&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
